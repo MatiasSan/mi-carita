@@ -11,14 +11,16 @@
     padding: 0 16px;
   }
 
-  header {
-    background-color: #ffc12d;
+  .navbar {
+    background-color: #ffc12d !important;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
 
-  header h1 {
+  
+
+  .navbar h1 {
     color: #fff;
     font-family: "McLaren", cursive;
     font-weight: 200;
@@ -32,19 +34,11 @@
     color: #fff;
 
   }
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
 
-  .NavBar {
-    display: flex;
-    justify-content: space-around;
-  }
 
-  .NavLogo {
-    
-  }
+  
+
+ 
 
  
   footer {

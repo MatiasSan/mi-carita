@@ -10,7 +10,7 @@ function Header() {
           <Navbar collapseOnSelect expand="lg" bg="" variant="dark">
             <Navbar.Brand href="#home">
             <img
-            src="../logo_skin.png"
+            src="../imagenes/logo_skin.png"
             width="30"
             height="30"
             className="d-inline-block align-top"

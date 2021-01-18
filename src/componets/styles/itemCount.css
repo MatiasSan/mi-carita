@@ -1,0 +1,23 @@
+
+
+
+.counter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    border: 2px solid lightgray;
+    padding: 1px;
+    border-radius: 6px;
+
+}
+
+.counter button{
+    width: 50px;
+    width: 50px;
+    border-radius: 6px;
+}
+
+.counter p{
+    font-size: 1.3em;
+}

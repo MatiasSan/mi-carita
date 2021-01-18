@@ -3,7 +3,7 @@ import React from "react";
 function CartWidget () {
     return (
     <img
-    src="../shopping_cart.png"
+    src="../imagenes/shopping_cart.png"
     width="30"
     height="30"
     className="d-inline-block align-top"
